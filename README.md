@@ -1,5 +1,7 @@
 # Lattice-App - a simple Go webapp
 
+> Lattice has been deprecated. Please use the [new test-app](https://github.com/cloudfoundry-samples/test-app).
+
 ### Pushing the app to Cloud Foundry
 
 ```
